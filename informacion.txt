@@ -1,9 +1,0 @@
-Objetivo del proyecto:
-Detener el efecto negativo de la radiacion y tormentas solares producidos por el sol, salvando lo que queda de fauna en el unico planeta conocido con vida creada de manera natural.
-
-Publico al que va dirigido: Poblacion general
-
-Caracteristicas principales:
-- Preservacion del planeta.
-- Costo potencial elevado.
-- Ciencia ficcion.
